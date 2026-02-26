@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Sleeping Satellite",
+  "base_artist": "Tasmin Archer",
+  "createdAt": "2026-02-26T16:02:27.071367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/01_Sleeping_Satellite_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/02_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/03_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/04_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/05_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/06_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/07_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/08_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sleeping Satellite (Acoustic Version)",
+      "artist": "Tasmin Archer",
+      "has_synced": false,
+      "path": "select/09_Sleeping_Satellite_(Acoustic_Version)_Tasmin_Archer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sleeping Satellite (Acoustic)",
+      "artist": "Tasmin Archer",
+      "has_synced": false,
+      "path": "select/10_Sleeping_Satellite_(Acoustic)_Tasmin_Archer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/11_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/12_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/13_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": true,
+      "path": "select/14_Sleeping_Satellite_Tasmin_Archer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sleeping Satellite",
+      "artist": "Tasmin Archer",
+      "has_synced": false,
+      "path": "select/pl_01_Sleeping_Satellite_Tasmin_Archer.txt"
+    }
+  ]
+}
